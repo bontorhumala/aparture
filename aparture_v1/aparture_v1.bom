@@ -1,0 +1,13 @@
+Partlist exported from C:/Users/tritronik/Documents/eagle/aparture/aparture_v1/aparture_v1.sch at 10/14/2014 5:11:34 PM
+
+Qty Value    Device     Package  Parts                                             Description                                    MF                      MPN       OC_FARNELL OC_NEWARK
+2            AK300/10   AK300/10 IN, OUT                                           CONNECTOR                                                                        unknown    unknown  
+2            AK300/2    AK300/2  DUMMY, MAINS                                      CONNECTOR                                                                        unknown    unknown  
+1            PINHD-2X5  2X05     JP2                                               PIN HEADER                                                                                           
+10  BT138-V  BT138-V    TO220BV  T1, T2, T3, T4, T5, T6, T7, T8, T9, T10           TRIAC                                                                                                
+10  C0.1uF   C-EUC0805  C0805    C1, C2, C3, C10, C11, C12, C13, C14, C15, C16     CAPACITOR, European symbol                                                                           
+10  MOC3021M MOC3021M   DIL06    OK1, OK2, OK3, OK4, OK5, OK6, OK7, OK8, OK9, OK10 RANDOM-PHASE OPTOISOLATORS TRIAC DRIVER OUTPUT FAIRCHILD SEMICONDUCTOR MOC3021-M 1021365    95B7895  
+10  R180     R-EU_M0805 M0805    R2, R5, R7, R10, R13, R16, R19, R22, R25, R29     RESISTOR, European symbol                                                                            
+10  R2.4K    R-EU_M0805 M0805    R3, R8, R11, R14, R17, R20, R23, R26, R27, R30    RESISTOR, European symbol                                                                            
+1   SMPS_IN  SMPS_IN    SMPS_IN  JP1                                               PIN HEADER                                                                                           
+1   SMPS_OUT PINHD-1X2  1X02     JP3                                               PIN HEADER                                                                                           
